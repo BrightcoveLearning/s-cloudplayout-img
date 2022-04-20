@@ -1,1 +1,1 @@
-# s-cloudplayout-img
+# Images for Cloud Playout
